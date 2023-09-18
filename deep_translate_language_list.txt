@@ -1,0 +1,114 @@
+N	Language	ISO-639 code	Text
+1	afrikaans	af	die teks wat vertaal moet word
+2	albanian	sq	teksti që do të përkthehet
+3	amharic	am	የሚተረጎመው ጽሑፍ
+4	arabic	ar	النص المراد ترجمته
+5	armenian	hy	թարգմանվելիք տեքստը
+6	azerbaijani	az	tərcümə olunacaq mətn
+7	basque	eu	itzuli beharreko testua
+8	belarusian	be	тэкст для перакладу
+9	bengali	bn	টেক্সট অনুবাদ করা হবে
+10	bosnian	bs	tekst koji treba prevesti
+11	bulgarian	bg	текстът за превод
+12	catalan	ca	el text a traduir
+13	cebuano	ceb	ang teksto nga hubaron
+14	chichewa	ny	mawu omasuliridwa
+15	chinese (simplified)	zh-cn	Error: zh-cn --> No support for the provided language.
+Please select on of the supported languages:
+{'afrikaans': 'af', 'albanian': 'sq', 'amharic': 'am', 'arabic': 'ar', 'armenian': 'hy', 'assamese': 'as', 'aymara': 'ay', 'azerbaijani': 'az', 'bambara': 'bm', 'basque': 'eu', 'belarusian': 'be', 'bengali': 'bn', 'bhojpuri': 'bho', 'bosnian': 'bs', 'bulgarian': 'bg', 'catalan': 'ca', 'cebuano': 'ceb', 'chichewa': 'ny', 'chinese (simplified)': 'zh-CN', 'chinese (traditional)': 'zh-TW', 'corsican': 'co', 'croatian': 'hr', 'czech': 'cs', 'danish': 'da', 'dhivehi': 'dv', 'dogri': 'doi', 'dutch': 'nl', 'english': 'en', 'esperanto': 'eo', 'estonian': 'et', 'ewe': 'ee', 'filipino': 'tl', 'finnish': 'fi', 'french': 'fr', 'frisian': 'fy', 'galician': 'gl', 'georgian': 'ka', 'german': 'de', 'greek': 'el', 'guarani': 'gn', 'gujarati': 'gu', 'haitian creole': 'ht', 'hausa': 'ha', 'hawaiian': 'haw', 'hebrew': 'iw', 'hindi': 'hi', 'hmong': 'hmn', 'hungarian': 'hu', 'icelandic': 'is', 'igbo': 'ig', 'ilocano': 'ilo', 'indonesian': 'id', 'irish': 'ga', 'italian': 'it', 'japanese': 'ja', 'javanese': 'jw', 'kannada': 'kn', 'kazakh': 'kk', 'khmer': 'km', 'kinyarwanda': 'rw', 'konkani': 'gom', 'korean': 'ko', 'krio': 'kri', 'kurdish (kurmanji)': 'ku', 'kurdish (sorani)': 'ckb', 'kyrgyz': 'ky', 'lao': 'lo', 'latin': 'la', 'latvian': 'lv', 'lingala': 'ln', 'lithuanian': 'lt', 'luganda': 'lg', 'luxembourgish': 'lb', 'macedonian': 'mk', 'maithili': 'mai', 'malagasy': 'mg', 'malay': 'ms', 'malayalam': 'ml', 'maltese': 'mt', 'maori': 'mi', 'marathi': 'mr', 'meiteilon (manipuri)': 'mni-Mtei', 'mizo': 'lus', 'mongolian': 'mn', 'myanmar': 'my', 'nepali': 'ne', 'norwegian': 'no', 'odia (oriya)': 'or', 'oromo': 'om', 'pashto': 'ps', 'persian': 'fa', 'polish': 'pl', 'portuguese': 'pt', 'punjabi': 'pa', 'quechua': 'qu', 'romanian': 'ro', 'russian': 'ru', 'samoan': 'sm', 'sanskrit': 'sa', 'scots gaelic': 'gd', 'sepedi': 'nso', 'serbian': 'sr', 'sesotho': 'st', 'shona': 'sn', 'sindhi': 'sd', 'sinhala': 'si', 'slovak': 'sk', 'slovenian': 'sl', 'somali': 'so', 'spanish': 'es', 'sundanese': 'su', 'swahili': 'sw', 'swedish': 'sv', 'tajik': 'tg', 'tamil': 'ta', 'tatar': 'tt', 'telugu': 'te', 'thai': 'th', 'tigrinya': 'ti', 'tsonga': 'ts', 'turkish': 'tr', 'turkmen': 'tk', 'twi': 'ak', 'ukrainian': 'uk', 'urdu': 'ur', 'uyghur': 'ug', 'uzbek': 'uz', 'vietnamese': 'vi', 'welsh': 'cy', 'xhosa': 'xh', 'yiddish': 'yi', 'yoruba': 'yo', 'zulu': 'zu'}
+16	chinese (traditional)	zh-tw	Error: zh-tw --> No support for the provided language.
+Please select on of the supported languages:
+{'afrikaans': 'af', 'albanian': 'sq', 'amharic': 'am', 'arabic': 'ar', 'armenian': 'hy', 'assamese': 'as', 'aymara': 'ay', 'azerbaijani': 'az', 'bambara': 'bm', 'basque': 'eu', 'belarusian': 'be', 'bengali': 'bn', 'bhojpuri': 'bho', 'bosnian': 'bs', 'bulgarian': 'bg', 'catalan': 'ca', 'cebuano': 'ceb', 'chichewa': 'ny', 'chinese (simplified)': 'zh-CN', 'chinese (traditional)': 'zh-TW', 'corsican': 'co', 'croatian': 'hr', 'czech': 'cs', 'danish': 'da', 'dhivehi': 'dv', 'dogri': 'doi', 'dutch': 'nl', 'english': 'en', 'esperanto': 'eo', 'estonian': 'et', 'ewe': 'ee', 'filipino': 'tl', 'finnish': 'fi', 'french': 'fr', 'frisian': 'fy', 'galician': 'gl', 'georgian': 'ka', 'german': 'de', 'greek': 'el', 'guarani': 'gn', 'gujarati': 'gu', 'haitian creole': 'ht', 'hausa': 'ha', 'hawaiian': 'haw', 'hebrew': 'iw', 'hindi': 'hi', 'hmong': 'hmn', 'hungarian': 'hu', 'icelandic': 'is', 'igbo': 'ig', 'ilocano': 'ilo', 'indonesian': 'id', 'irish': 'ga', 'italian': 'it', 'japanese': 'ja', 'javanese': 'jw', 'kannada': 'kn', 'kazakh': 'kk', 'khmer': 'km', 'kinyarwanda': 'rw', 'konkani': 'gom', 'korean': 'ko', 'krio': 'kri', 'kurdish (kurmanji)': 'ku', 'kurdish (sorani)': 'ckb', 'kyrgyz': 'ky', 'lao': 'lo', 'latin': 'la', 'latvian': 'lv', 'lingala': 'ln', 'lithuanian': 'lt', 'luganda': 'lg', 'luxembourgish': 'lb', 'macedonian': 'mk', 'maithili': 'mai', 'malagasy': 'mg', 'malay': 'ms', 'malayalam': 'ml', 'maltese': 'mt', 'maori': 'mi', 'marathi': 'mr', 'meiteilon (manipuri)': 'mni-Mtei', 'mizo': 'lus', 'mongolian': 'mn', 'myanmar': 'my', 'nepali': 'ne', 'norwegian': 'no', 'odia (oriya)': 'or', 'oromo': 'om', 'pashto': 'ps', 'persian': 'fa', 'polish': 'pl', 'portuguese': 'pt', 'punjabi': 'pa', 'quechua': 'qu', 'romanian': 'ro', 'russian': 'ru', 'samoan': 'sm', 'sanskrit': 'sa', 'scots gaelic': 'gd', 'sepedi': 'nso', 'serbian': 'sr', 'sesotho': 'st', 'shona': 'sn', 'sindhi': 'sd', 'sinhala': 'si', 'slovak': 'sk', 'slovenian': 'sl', 'somali': 'so', 'spanish': 'es', 'sundanese': 'su', 'swahili': 'sw', 'swedish': 'sv', 'tajik': 'tg', 'tamil': 'ta', 'tatar': 'tt', 'telugu': 'te', 'thai': 'th', 'tigrinya': 'ti', 'tsonga': 'ts', 'turkish': 'tr', 'turkmen': 'tk', 'twi': 'ak', 'ukrainian': 'uk', 'urdu': 'ur', 'uyghur': 'ug', 'uzbek': 'uz', 'vietnamese': 'vi', 'welsh': 'cy', 'xhosa': 'xh', 'yiddish': 'yi', 'yoruba': 'yo', 'zulu': 'zu'}
+17	corsican	co	u testu da traduce
+18	croatian	hr	tekst koji treba prevesti
+19	czech	cs	text, který má být přeložen
+20	danish	da	teksten der skal oversættes
+21	dutch	nl	de te vertalen tekst
+22	english	en	the text to be translated
+23	esperanto	eo	la tradukenda teksto
+24	estonian	et	tõlgitav tekst
+25	filipino	tl	ang tekstong isasalin
+26	finnish	fi	käännettävä teksti
+27	french	fr	le texte à traduire
+28	frisian	fy	de oersette tekst
+29	galician	gl	o texto que se vai traducir
+30	georgian	ka	სათარგმნი ტექსტი
+31	german	de	der zu übersetzende Text
+32	greek	el	το προς μετάφραση κείμενο
+33	gujarati	gu	જે ટેક્સ્ટનો અનુવાદ કરવાનો છે
+34	haitian creole	ht	tèks pou tradui
+35	hausa	ha	rubutun da za a fassara
+36	hawaiian	haw	ka kikokikona e unuhiia
+37	hebrew	iw	הטקסט שיש לתרגם
+38	hebrew	he	Error: he --> No support for the provided language.
+Please select on of the supported languages:
+{'afrikaans': 'af', 'albanian': 'sq', 'amharic': 'am', 'arabic': 'ar', 'armenian': 'hy', 'assamese': 'as', 'aymara': 'ay', 'azerbaijani': 'az', 'bambara': 'bm', 'basque': 'eu', 'belarusian': 'be', 'bengali': 'bn', 'bhojpuri': 'bho', 'bosnian': 'bs', 'bulgarian': 'bg', 'catalan': 'ca', 'cebuano': 'ceb', 'chichewa': 'ny', 'chinese (simplified)': 'zh-CN', 'chinese (traditional)': 'zh-TW', 'corsican': 'co', 'croatian': 'hr', 'czech': 'cs', 'danish': 'da', 'dhivehi': 'dv', 'dogri': 'doi', 'dutch': 'nl', 'english': 'en', 'esperanto': 'eo', 'estonian': 'et', 'ewe': 'ee', 'filipino': 'tl', 'finnish': 'fi', 'french': 'fr', 'frisian': 'fy', 'galician': 'gl', 'georgian': 'ka', 'german': 'de', 'greek': 'el', 'guarani': 'gn', 'gujarati': 'gu', 'haitian creole': 'ht', 'hausa': 'ha', 'hawaiian': 'haw', 'hebrew': 'iw', 'hindi': 'hi', 'hmong': 'hmn', 'hungarian': 'hu', 'icelandic': 'is', 'igbo': 'ig', 'ilocano': 'ilo', 'indonesian': 'id', 'irish': 'ga', 'italian': 'it', 'japanese': 'ja', 'javanese': 'jw', 'kannada': 'kn', 'kazakh': 'kk', 'khmer': 'km', 'kinyarwanda': 'rw', 'konkani': 'gom', 'korean': 'ko', 'krio': 'kri', 'kurdish (kurmanji)': 'ku', 'kurdish (sorani)': 'ckb', 'kyrgyz': 'ky', 'lao': 'lo', 'latin': 'la', 'latvian': 'lv', 'lingala': 'ln', 'lithuanian': 'lt', 'luganda': 'lg', 'luxembourgish': 'lb', 'macedonian': 'mk', 'maithili': 'mai', 'malagasy': 'mg', 'malay': 'ms', 'malayalam': 'ml', 'maltese': 'mt', 'maori': 'mi', 'marathi': 'mr', 'meiteilon (manipuri)': 'mni-Mtei', 'mizo': 'lus', 'mongolian': 'mn', 'myanmar': 'my', 'nepali': 'ne', 'norwegian': 'no', 'odia (oriya)': 'or', 'oromo': 'om', 'pashto': 'ps', 'persian': 'fa', 'polish': 'pl', 'portuguese': 'pt', 'punjabi': 'pa', 'quechua': 'qu', 'romanian': 'ro', 'russian': 'ru', 'samoan': 'sm', 'sanskrit': 'sa', 'scots gaelic': 'gd', 'sepedi': 'nso', 'serbian': 'sr', 'sesotho': 'st', 'shona': 'sn', 'sindhi': 'sd', 'sinhala': 'si', 'slovak': 'sk', 'slovenian': 'sl', 'somali': 'so', 'spanish': 'es', 'sundanese': 'su', 'swahili': 'sw', 'swedish': 'sv', 'tajik': 'tg', 'tamil': 'ta', 'tatar': 'tt', 'telugu': 'te', 'thai': 'th', 'tigrinya': 'ti', 'tsonga': 'ts', 'turkish': 'tr', 'turkmen': 'tk', 'twi': 'ak', 'ukrainian': 'uk', 'urdu': 'ur', 'uyghur': 'ug', 'uzbek': 'uz', 'vietnamese': 'vi', 'welsh': 'cy', 'xhosa': 'xh', 'yiddish': 'yi', 'yoruba': 'yo', 'zulu': 'zu'}
+39	hindi	hi	अनुवादित किया जाने वाला पाठ
+40	hmong	hmn	cov ntawv yuav muab txhais
+41	hungarian	hu	a fordítandó szöveget
+42	icelandic	is	textann sem á að þýða
+43	igbo	ig	ederede a ga-atụgharị
+44	indonesian	id	teks yang akan diterjemahkan
+45	irish	ga	an téacs atá le haistriú
+46	italian	it	il testo da tradurre
+47	japanese	ja	翻訳するテキスト
+48	javanese	jw	teks sing arep diterjemahake
+49	kannada	kn	ಅನುವಾದಿಸಬೇಕಾದ ಪಠ್ಯ
+50	kazakh	kk	аударылатын мәтін
+51	khmer	km	អត្ថបទដែលត្រូវបកប្រែ
+52	korean	ko	번역할 텍스트
+53	kurdish (kurmanji)	ku	nivîsa ku were wergerandin
+54	kyrgyz	ky	которула турган текст
+55	lao	lo	ຂໍ້ຄວາມທີ່ຈະແປ
+56	latin	la	textum interpretari
+57	latvian	lv	tulkojamais teksts
+58	lithuanian	lt	verčiamas tekstas
+59	luxembourgish	lb	den Text ze iwwersetzen
+60	macedonian	mk	текстот што треба да се преведе
+61	malagasy	mg	ny lahatsoratra hadika
+62	malay	ms	teks yang hendak diterjemahkan
+63	malayalam	ml	വിവർത്തനം ചെയ്യേണ്ട വാചകം
+64	maltese	mt	it-test li jrid jiġi tradott
+65	maori	mi	te tuhinga hei whakamaori
+66	marathi	mr	अनुवादित करायचा मजकूर
+67	mongolian	mn	орчуулах текст
+68	myanmar (burmese)	my	ဘာသာပြန်ရမည့် စာသား
+69	nepali	ne	अनुवाद गर्नुपर्ने पाठ
+70	norwegian	no	teksten som skal oversettes
+71	odia	or	ଅନୁବାଦ ହେବାକୁ ଥିବା ପାଠ
+72	pashto	ps	متن باید ژباړل شي
+73	persian	fa	متنی که باید ترجمه شود
+74	polish	pl	tekst do przetłumaczenia
+75	portuguese	pt	o texto a ser traduzido
+76	punjabi	pa	ਅਨੁਵਾਦ ਕੀਤੇ ਜਾਣ ਵਾਲੇ ਪਾਠ
+77	romanian	ro	textul de tradus
+78	russian	ru	текст, который необходимо перевести
+79	samoan	sm	le tusitusiga e faaliliu
+80	scots gaelic	gd	an teacsa ri eadar-theangachadh
+81	serbian	sr	текст који треба превести
+82	sesotho	st	mongolo o tla fetoleloa
+83	shona	sn	chinyorwa chinoturikirwa
+84	sindhi	sd	متن جو ترجمو ڪيو وڃي
+85	sinhala	si	පරිවර්තනය කළ යුතු පෙළ
+86	slovak	sk	text, ktorý sa má preložiť
+87	slovenian	sl	besedilo, ki ga je treba prevesti
+88	somali	so	qoraalka la turjumayo
+89	spanish	es	el texto a traducir
+90	sundanese	su	téks nu rék ditarjamahkeun
+91	swahili	sw	maandishi ya kutafsiriwa
+92	swedish	sv	texten som ska översättas
+93	tajik	tg	матни тарҷумашуда
+94	tamil	ta	மொழிபெயர்க்க வேண்டிய உரை
+95	telugu	te	అనువదించవలసిన వచనం
+96	thai	th	ข้อความที่จะแปล
+97	turkish	tr	çevrilecek metin
+98	ukrainian	uk	текст, який необхідно перекласти
+99	urdu	ur	متن کا ترجمہ کیا جانا ہے۔
+100	uyghur	ug	تەرجىمە قىلىنىدىغان تېكىست
+101	uzbek	uz	tarjima qilinadigan matn
+102	vietnamese	vi	văn bản cần dịch
+103	welsh	cy	y testun i'w gyfieithu
+104	xhosa	xh	umbhalo oza kuguqulelwa
+105	yiddish	yi	דער טעקסט צו ווערן איבערגעזעצט
+106	yoruba	yo	ọrọ lati tumọ
+107	zulu	zu	umbhalo ozohunyushwa
