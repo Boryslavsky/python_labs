@@ -1,0 +1,77 @@
+N	Language	ISO-639 code	Text
+1	afrikaans	af	die teks wat vertaal moet word
+2	albanian	sq	teksti që do të përkthehet
+3	amharic	am	ጽሑፉ ለመተርጎም
+4	arabic	ar	النص المراد ترجمته
+5	armenian	hy	Թարգմանված տեքստը
+6	azerbaijani	az	tərcümə ediləcək mətn
+7	basque	eu	itzuliko den testua
+8	belarusian	be	тэкст, які трэба перакласці
+9	bengali	bn	পাঠ্য অনুবাদ করা হবে
+10	bosnian	bs	tekst koji treba prevesti
+11	bulgarian	bg	Текстът, който трябва да бъде преведен
+12	catalan	ca	el text a traduir
+13	cebuano	ceb	ang teksto nga mahubad
+14	chichewa	ny	lembalo kutanthauziridwa
+15	chinese (simplified)	zh-cn	要翻译的文字
+16	chinese (traditional)	zh-tw	要翻譯的文字
+17	corsican	co	U testu per esse traduttu
+18	croatian	hr	Tekst koji se prevodi
+19	czech	cs	text, který má být přeložen
+20	danish	da	teksten, der skal oversættes
+21	dutch	nl	de te vertalen tekst
+22	english	en	the text to be translated
+23	esperanto	eo	la teksto tradukebla
+24	estonian	et	tõlgitav tekst
+25	filipino	tl	ang teksto na isasalin
+26	finnish	fi	käännettävä teksti
+27	french	fr	le texte à traduire
+28	frisian	fy	de tekst moat oerset wurde
+29	galician	gl	o texto a traducir
+30	georgian	ka	თარგმნილი ტექსტი
+31	german	de	der zu übersetzende Text
+32	greek	el	το κείμενο που πρόκειται να μεταφραστεί
+33	gujarati	gu	ભાષાંતર કરવા માટે ટેક્સ્ટ
+34	haitian creole	ht	tèks la yo dwe tradui
+35	hausa	ha	Rubutun da za a fassara
+36	hawaiian	haw	ka'ōlelo e unuhiʻia
+37	hebrew	iw	את הטקסט שיש לתרגם
+38	hebrew	he	את הטקסט שיש לתרגם
+39	hindi	hi	अनुवाद किया जाना पाठ
+40	hmong	hmn	Cov ntawv nyeem yuav tsum tau txhais
+41	hungarian	hu	a lefordítandó szöveg
+42	icelandic	is	Textinn sem á að þýða
+43	igbo	ig	Ederede ederede a
+44	indonesian	id	teks yang akan diterjemahkan
+45	irish	ga	an téacs atá le haistriú
+46	italian	it	il testo da tradurre
+47	japanese	ja	翻訳されるテキスト
+48	javanese	jw	Teks kanggo diterjemahake
+49	kannada	kn	ಅನುವಾದಿಸಬೇಕಾದ ಪಠ್ಯ
+50	kazakh	kk	аударылатын мәтін
+51	khmer	km	អត្ថបទដែលត្រូវបកប្រែ
+52	korean	ko	번역 할 텍스트
+53	kurdish (kurmanji)	ku	nivîsa ku were wergerandin
+54	kyrgyz	ky	которулуучу текст
+55	lao	lo	ບົດເລື່ອງທີ່ຕ້ອງໄດ້ແປ
+56	latin	la	textum esse translata
+57	latvian	lv	tulkojamais teksts
+58	lithuanian	lt	Išverstas tekstas
+59	luxembourgish	lb	den Text ze iwwersat ginn
+60	macedonian	mk	текстот што треба да се преведе
+61	malagasy	mg	ny lahatsoratra handikana
+62	malay	ms	teks yang akan diterjemahkan
+63	malayalam	ml	വിവർത്തനം ചെയ്യാനുള്ള വാചകം
+64	maltese	mt	it-test li għandu jiġi tradott
+65	maori	mi	Ko te tuhinga kia whakamaoritia
+66	marathi	mr	मजकूर अनुवादित केला जाईल
+67	mongolian	mn	орчуулах текст
+68	myanmar (burmese)	my	ဘာသာပြန်ထားသောခံရဖို့စာသား
+69	nepali	ne	अनुवाद गर्न पाठ
+70	norwegian	no	teksten som skal oversettes
+71	odia	or	ଅନୁବାଦିତ ପାଠ
+72	pashto	ps	متن باید وژباړل شي
+73	persian	fa	متن ترجمه شده
+74	polish	pl	tekst do przetłumaczenia
+75	portuguese	pt	o texto a ser traduzido
+76	punjabi	pa	ਪਾਠ ਦਾ ਅਨੁਵਾਦ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ
