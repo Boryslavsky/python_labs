@@ -1,0 +1,6 @@
+text.txt         
+en
+screen
+2000
+300                  
+20                    
