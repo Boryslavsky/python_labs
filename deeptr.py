@@ -16,5 +16,5 @@ print(f"Код Ukrainian: {language_code}")
 language_name = CodeLang("en")
 print(f"Назва en: {language_name}")
 
-result = LanguageList(out="file", text="текст, який необхідно перекласти")
+result = LanguageList(out="screen", text="текст, який необхідно перекласти")
 print(result)

@@ -1,7 +1,5 @@
 from deep_translator import GoogleTranslator
 from langdetect import detect
-import requests
-from langcodes import Language, standardize_tag
 from googletrans import LANGUAGES
 import pycountry
 def TransLate(text: str, src: str, dest: str) -> str:
@@ -17,7 +15,7 @@ def LangDetect(text: str, set: str) -> str:
         if set == "lang":
             return detected_language
         elif set == "confidence":
-            return "N/A"  # langdetect doesn't provide confidence score
+            return "N/A"
         else:
             return f"Language: {detected_language}, Confidence: N/A"
     except Exception as e:
@@ -27,20 +25,18 @@ def LangDetect(text: str, set: str) -> str:
 def CodeLang(lang: str) -> str:
     try:
         if len(lang) == 2:
-            # Якщо lang складається з 2 букв, вважаємо, що це код мови ISO-639-1
             language = pycountry.languages.get(alpha_2=lang)
             return language.name
         elif len(lang) == 3:
-            # Якщо lang складається з 3 букв, вважаємо, що це код мови ISO-639-2
             language = pycountry.languages.get(alpha_3=lang)
             return language.name
         else:
             code = "".join([c.lower() for c in lang if c.isalpha()])[:2]
             return code if code else "Мову не знайдено або невірний формат"
     except Exception as e:
-        pass  # Обробка помилки, якщо назву мови не вдалося визначити
+        return "Невідома мова"
 
-    return "Невідома мова"
+
 
 def LanguageList(out: str = "screen", text: str = None) -> str:
     if out not in ["screen", "file"]:
