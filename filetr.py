@@ -41,9 +41,8 @@ def main():
     print(f"Кількість символів: {len(text)}")
     print(f"Кількість слів: {count_words(text)}")
     print(f"Кількість речень: {count_sentences(text)}")
-    print(f"Мова тексту: Англійська")  # Ви можете додати розпізнавання мови, якщо це необхідно
+    print(f"Мова тексту: Англійська")
 
-    # Перевіряємо умови завершення перекладу
     if len(text) <= max_chars and count_words(text) <= max_words and count_sentences(text) <= max_sentences:
         print("Умови завершення перекладу виконано.")
 
